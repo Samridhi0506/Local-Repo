@@ -1,0 +1,12 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 0f78730..6587bdf 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -2,5 +2,5 @@[m
+     This is a new repo.[m
+ </p>[m
+ <p>[m
+[31m-    This is a new feature <button></button>[m
+[32m+[m[32m    This is a new feature <dropdown></dropdown>[m
+ </p>[m
+\ No newline at end of file[m
